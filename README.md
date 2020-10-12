@@ -415,6 +415,8 @@ In a nutshell:
 
 ciao is released under the [MIT License](https://opensource.org/licenses/MIT).
 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fbrotandgames%2Fciao.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fbrotandgames%2Fciao?ref=badge_large)
+
 ## Guestbook
 
 Why not reinvent the [guestbook](guestbook.md)?
